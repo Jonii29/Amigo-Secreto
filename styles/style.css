@@ -1,0 +1,19 @@
+body {
+  background-color: #854836;
+  color: #f6f6f6;
+  font-size: 20px;
+}
+.header {
+  background-color: #ffb22c;
+  color: #854836;
+  text-align: center;
+}
+.footer {
+  background-color: #000000;
+  color: #f6f6f6;
+  text-align: center;
+  padding: 10px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  font-weight: 400;
+}
